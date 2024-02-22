@@ -71,8 +71,6 @@ SELECT @@autocommit;
 
 ## Base para Testes
 
-![[Transacoes_Base_Teste_Transacoes.svg]]
-
 <br><br>
 
 ## Recuperação de Transações

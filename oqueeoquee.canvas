@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"3face02c0f98cb09","type":"text","text":"E a vida ","x":-300,"y":-220,"width":250,"height":60},
-		{"id":"c49bf22d054ffc8e","type":"text","text":"ela é maravilha ou é \nsofrimento","x":-220,"y":-120,"width":250,"height":50},
-		{"id":"8df9572572e38cff","x":-95,"y":-40,"width":250,"height":60,"type":"text","text":"Ela é alegria ou lamento?"},
-		{"id":"8bd260128fcf353b","x":-220,"y":80,"width":250,"height":60,"type":"text","text":"O que é? o que é, meu irmão?"}
-	],
-	"edges":[]
-}
