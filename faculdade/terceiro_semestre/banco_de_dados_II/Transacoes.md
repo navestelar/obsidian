@@ -83,4 +83,3 @@ SELECT @@autocommit;
 **Existem dois algorítimos de recuperação que são:**
 - **UNO/NO-REDO**
 - **UNO/REDO**
-![[Diagram.svg]]
