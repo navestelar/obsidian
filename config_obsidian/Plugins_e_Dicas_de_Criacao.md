@@ -49,3 +49,25 @@ public class Main {
 }
 ```
 
+
+<br><br>
+
+# Dicas de criação 
+
+São necessárias dicas de criação pois no momento de alteração futura desse repositório para outro sistema de arquivos pode dar conflito com carácteres desconhecidos.
+
+<br><br>
+
+**Nomes de arquivos ->** Os nomes de arquivos devem ser compostos por **underline ( _ )** no lugar do espaço e não devem conter caracteres de acentuação e nem caracteres especiais;
+
+**Nomes das pastas ->** Devem ser compostos somente por letras minusculas e também utilizar **underline ( _ )** no lugar dos espaços e não devem conter caracteres de acentuação e nem caracteres especiais;
+
+**Criação do Glossário ->** Sempre que criar uma pasta no obsidian tambem crie um arquivo com o nome da pasta assim pode ter um ponto de acesso através de links dos arquivos nas pastas anteriores. Por exemplo o arquivo README.md acessa a pasta faculdade através do link do arquivo Faculdade.md;
+
+**Forma de criação dos Links ->** Sempre que criar um link dentro de um arquivo use a forma abaixo e sempre coloque o (.md) no final do arquivo, assim os links podem ser acessados no obsidian através do glossário e tambem no GitHub para pesquisa online.
+
+```Markdown
+[Nome de apresentacao do link](pasta_de_acesso/Arquivo_a_Ser_Acessado.md)
+```
+
+
